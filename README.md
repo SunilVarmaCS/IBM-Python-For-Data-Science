@@ -1,2 +1,2 @@
-# IBM-Python-For-Data-Science
+# python-for-data-science-learning-roadmap
 IBM Data Science Certification
